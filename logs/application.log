@@ -1,0 +1,18 @@
+2015-05-24 21:03:35,647 - [INFO] - from play in play-fork-run-akka.actor.default-dispatcher-4 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2015-05-24 21:05:23,321 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2015-05-24 21:05:30,388 - [INFO] - from play in New I/O worker #1 
+Starting application default Akka system.
+
+2015-05-24 21:05:31,086 - [INFO] - from application in play-akka.actor.default-dispatcher-2 
+Constructing WebSocket for Nishant.
+
+2015-05-24 21:05:43,860 - [INFO] - from application in play-akka.actor.default-dispatcher-4 
+Constructing WebSocket for Nikhil.
+
+2015-05-24 21:06:49,124 - [INFO] - from play in play-fork-run-akka.actor.default-dispatcher-9 
+Shutdown application default Akka system.
+
